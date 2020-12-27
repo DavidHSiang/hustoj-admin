@@ -10,6 +10,9 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>hustoj-spider</module>
+        <module>hustoj-problem</module>
+        <module>hustoj-system</module>
     </modules>
 
 </project>
