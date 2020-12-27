@@ -15,6 +15,7 @@
         <module>hustoj-system</module>
         <module>hustoj-news</module>
         <module>hustoj-contest</module>
+        <module>hustoj-admin</module>
     </modules>
 
 </project>
