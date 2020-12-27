@@ -13,6 +13,7 @@
         <module>hustoj-spider</module>
         <module>hustoj-problem</module>
         <module>hustoj-system</module>
+        <module>hustoj-news</module>
     </modules>
 
 </project>
